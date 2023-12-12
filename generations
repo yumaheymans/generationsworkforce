@@ -1,0 +1,71 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0">Generation</th>
+    <th class="tg-yla0">Birth Years</th>
+    <th class="tg-yla0">Age in 2024</th>
+    <th class="tg-yla0">Workforce in '24</th>
+    <th class="tg-yla0">Preferences</th>
+    <th class="tg-yla0">Recruitment Tactics</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1">Silent Generation</td>
+    <td class="tg-cly1">1928-1945</td>
+    <td class="tg-cly1">79-96</td>
+    <td class="tg-cly1">&lt;1%</td>
+    <td class="tg-cly1">Mostly retired</td>
+    <td class="tg-cly1">N/A</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Baby Boomers</td>
+    <td class="tg-cly1">1946-1964</td>
+    <td class="tg-cly1">60-78</td>
+    <td class="tg-cly1">Small, decreasing</td>
+    <td class="tg-cly1">Flexible hours<br>Stability<br>Salary<br>Healthcare</td>
+    <td class="tg-cly1">Digital and traditional media<br>Role specifics<br>Company culture</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Generation X</td>
+    <td class="tg-cly1">1965-1980</td>
+    <td class="tg-cly1">44-59</td>
+    <td class="tg-cly1">20-30%</td>
+    <td class="tg-cly1">Growth opportunities<br>Work-life balance<br>Stability<br>Company values<br>Benefits</td>
+    <td class="tg-cly1">Career advancement<br>Formalized training</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Millennials</td>
+    <td class="tg-cly1">1981-1996</td>
+    <td class="tg-cly1">28-43</td>
+    <td class="tg-cly1">35-50%</td>
+    <td class="tg-cly1">Skill-building<br>Work-life balance<br>Digital engagement</td>
+    <td class="tg-cly1">Short-term career opportunities<br>Technology-forward culture</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Generation Z</td>
+    <td class="tg-cly1">1997-2012</td>
+    <td class="tg-cly1">12-27</td>
+    <td class="tg-cly1">10-20%</td>
+    <td class="tg-cly1">Learning opportunities<br>Mentorships<br>Flexibility<br>Meaningful contribution</td>
+    <td class="tg-cly1">Digital engagement<br>Short-term goals</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Generation Alpha</td>
+    <td class="tg-cly1">2013-Present</td>
+    <td class="tg-cly1">Up to 11</td>
+    <td class="tg-cly1">N/A</td>
+    <td class="tg-cly1">N/A</td>
+    <td class="tg-cly1">N/A</td>
+  </tr>
+</tbody>
+</table>
